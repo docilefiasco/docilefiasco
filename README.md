@@ -1,9 +1,10 @@
 ![Epshita's GitHub Banner](./banner.jpg)
 
-![Visits Badge](https://badges.pufler.dev/visits/docilefiasco/docilefiasco)
-![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/docilefiasco)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/epshita-chakravarty/)
-![Instagram Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://instagram.com/epshylonknot/)
+[![Visits Badge](https://badges.pufler.dev/visits/docilefiasco/docilefiasco)](https://github.com/docilefiasco/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/docilefiasco)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/epshita-chakravarty/)
+
+
 <!--
 **docilefiasco/docilefiasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
