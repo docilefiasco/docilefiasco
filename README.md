@@ -5,17 +5,24 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/epshita-chakravarty/)
 
 
-<!--
-**docilefiasco/docilefiasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hey! This is Epshita! I'm trying my hand at Frontend Development and simulations using MATLAB.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine Learning Algorithms and Exercises 
+- 🌱 I’m currently learning React.js and MATLAB
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: "I can put my whole fist in my mouth"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/docilefiasco/portfolio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=docilefiasco&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/docilefiasco/image-processing">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=docilefiasco&repo=image-processing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/docilefiasco/shape-recognition">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=docilefiasco&repo=shape-recognition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
