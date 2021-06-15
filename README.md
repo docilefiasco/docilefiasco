@@ -6,13 +6,18 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/docilefiasco)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/epshita-chakravarty/)
 
-<img align="right" height="200px" src="./morticia.gif"/>
+<img align="right" height="300px" src="./morticia.gif"/>
 - Hey! This is Epshita! I'm trying my hand at Frontend Development and simulations using MATLAB.
 
 - 🔭 I’m currently working on App Development in Java and Machine Learning Algorithms 
 - 🌱 I’m currently learning React.js and Kotlin
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "I can put my whole fist in my mouth"
+- 📫 How to reach me :
+- Instagram : https://www.instagram.com/epshylonknot/
+- Facebook : https://www.facebook.com/epshita.chakravarty.31/
+- Email : epshita.hs@gmail.com
+- Roman fax : 9054-pipipi-gwc-eqap
 
 
 <br>
