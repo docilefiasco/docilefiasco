@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/docilefiasco)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/epshita-chakravarty/)
 
-
+<img align="right" src="./morticia.gif" alt="morticia" style="width:400px;height:400px;">
 - Hey! This is Epshita! I'm trying my hand at Frontend Development and simulations using MATLAB.
 
 - 🔭 I’m currently working on App Development in Java and Machine Learning Algorithms 
@@ -14,7 +14,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "I can put my whole fist in my mouth"
 
-<img align="right" src="./morticia.gif" alt="morticia" style="width:500px;height:600px;">
+
 
 <a href="https://github.com/docilefiasco/portfolio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=docilefiasco&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
