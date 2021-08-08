@@ -9,12 +9,12 @@
 <img align="right" height="300px" src="./morticia.gif"/>
 - Hey! This is Epshita! I'm trying my hand at Frontend Development and simulations using MATLAB.
 
-- 🔭 I’m currently working on App Development in Java and Machine Learning Algorithms 
-- 🌱 I’m currently learning React.js and Kotlin
+- 🔭 I’m currently working on Mern Stack and Machine Learning Algorithms 
+- 🌱 I’m currently learning React.js and Node.js
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "I can put my whole fist in my mouth"
 - 📫 How to reach me :
-- Instagram : https://www.instagram.com/epshylonknot/
+- Instagram : https://www.instagram.com/ec.was.here/
 - Facebook : https://www.facebook.com/epshita.chakravarty.31/
 - Email : epshita.hs@gmail.com
 - Roman fax : 9054-pipipi-gwc-eqap
